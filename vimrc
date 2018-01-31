@@ -1,0 +1,13 @@
+ syntax on
+ set wildmenu
+ set showcmd
+ set hlsearch
+ set smartcase
+ set autoindent
+ set ruler
+ set visualbell
+ set number
+ set shiftwidth=4
+ set softtabstop=4
+ set expandtab
+ colo elflord

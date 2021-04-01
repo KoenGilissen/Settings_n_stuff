@@ -48,3 +48,4 @@ alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 
 alias clr='clear'
+alias sublime='open -a Sublime\ Text'
